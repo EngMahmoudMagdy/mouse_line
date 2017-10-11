@@ -1,0 +1,8 @@
+﻿  main.cpp
+d:\mahmoud\work & studies\4th year computer (bachelor)\graphics\codes\mouse\mouse\main.cpp(19): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+d:\mahmoud\work & studies\4th year computer (bachelor)\graphics\codes\mouse\mouse\main.cpp(20): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+d:\mahmoud\work & studies\4th year computer (bachelor)\graphics\codes\mouse\mouse\main.cpp(22): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+d:\mahmoud\work & studies\4th year computer (bachelor)\graphics\codes\mouse\mouse\main.cpp(23): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+d:\mahmoud\work & studies\4th year computer (bachelor)\graphics\codes\mouse\mouse\main.cpp(24): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  mouse.vcxproj -> D:\Mahmoud\Work & Studies\4th year computer (Bachelor)\Graphics\codes\mouse\Debug\mouse.exe
+  mouse.vcxproj -> D:\Mahmoud\Work & Studies\4th year computer (Bachelor)\Graphics\codes\mouse\Debug\mouse.pdb (Partial PDB)
